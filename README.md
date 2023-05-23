@@ -212,7 +212,7 @@ pip install -r requirements.txt
 | Test-average-HyperTime |     **54.81**     |    **78.26**    | **71.68** | **48.48** | **59.17** |
 | Test-worst-HyperTime   |     **51.44**     |    **74.52**    | **69.72** | **46.52** | **50.02** |
 
-We report the results of ERM by running the official code of Wilds-Time. One of the main conclusions of Wild-Time benchmark is that there is no existing method that could consistently outperform  ERM in all datasets of Wild-Tim. However, our observations indicate that HyperTime is consistently better than ERM on Wild-Time. This demonstrates that HyperTime is a promising method compared to existing baselines.
+We report the results of ERM by running the official code of Wilds-Time. One of the main conclusions of Wild-Time benchmark is that there is no existing method that could consistently outperform ERM in all datasets of Wild-Time. However, our observations indicate that HyperTime is consistently better than ERM on Wild-Time. This demonstrates that HyperTime is a promising method compared to existing baselines.
 
 ## References
 [1]: Yao, H., Choi, C., Lee, Y., Koh, P. W., and Finn, C.
